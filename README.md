@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**machen3228/machen3228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about **clean code**, **OOP**, and building scalable web applications. Continuously learning new technologies with endless enthusiasm and energy! 🚀
 
-Here are some ideas to get you started:
+**Focus:** Clean code, REST APIs, object-oriented design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do
+
+- Build backend APIs with **Python** (FastAPI, Litestar)
+- Experiment with **React** frontends and **Java**
+- Trying to write clean, maintainable code through solid **OOP principles**
+- Learn new technologies and design patterns
+
+## 🤝 Let's Connect
+
+Open to collaboration, feedback, and growing together! Reach out if you want to build something interesting.
+
+---
+
+**Let's code!** ✨
